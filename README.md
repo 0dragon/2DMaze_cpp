@@ -27,11 +27,10 @@
 
 #### 2. 내용
 이러한 전체 맵에서
-![미로맵1](https://user-images.githubusercontent.com/86341272/172043571-7790c834-d9c8-4901-92d3-98d6d21c55c4.PNG)
+![미로맵1](https://user-images.githubusercontent.com/86341272/172043805-ac204c2b-e425-4d63-a68a-a35ef394b032.PNG)
 
 랜덤으로 미로가 생깁니다.
-![미로맵2](https://user-images.githubusercontent.com/86341272/172043576-4ca504af-aeb7-4ad9-9e28-0dac2ed6e118.PNG)
-
+![미로맵2](https://user-images.githubusercontent.com/86341272/172043807-bb44ebef-4a26-4cde-947e-418da642ff32.PNG)
 만들어진 미로에서 컴퓨터가 스스로 길을 찾습니다.
 
 ### 수행 일정
