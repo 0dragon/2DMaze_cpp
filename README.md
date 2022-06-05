@@ -37,3 +37,4 @@
 |맵 구현 마무리|최소 스패닝 트리|-|논문 작성|리플릿|영상 촬영|-|
 
 ### 참고문헌
+프림 알고리즘 : https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%BC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
