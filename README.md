@@ -31,6 +31,7 @@
 
 랜덤으로 미로가 생깁니다.
 ![미로맵2](https://user-images.githubusercontent.com/86341272/172043807-bb44ebef-4a26-4cde-947e-418da642ff32.PNG)
+
 만들어진 미로에서 컴퓨터가 스스로 길을 찾습니다.
 
 ### 수행 일정
